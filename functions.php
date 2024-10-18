@@ -9,6 +9,8 @@
  * @since Twenty Twenty-Five 1.0
  */
 
+// A change
+
 // Adds theme support for post formats.
 if ( ! function_exists( 'twentytwentyfive_post_format_setup' ) ) :
 	/**
